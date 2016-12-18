@@ -1,9 +1,9 @@
 
+def printer( input ):
+    print input
 
 def tester():
-    print "Hello world"
-
-
+    printer("Hello World")
 
 if __name__ == "__main__":
     tester()
